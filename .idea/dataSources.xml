@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="587836544">
+    <data-source source="LOCAL" name="Rails sample_app: development" uuid="1ff07916-9672-4ad9-8188-3efdb2a20c89">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:firstapp</jdbc-url>
+      <user-name>pierre</user-name>
+      <user-password>dfc0dfc5dfc2dfc4dfc4dfd3</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
